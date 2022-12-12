@@ -7,7 +7,9 @@
         mc:Ignorable="d"
         Title="acercade" Height="450" Width="800">
     <Grid>
-        <Label Content="Developed by Pipe Andrés Parra Bimestre 9, Semana 2, Año 2022" HorizontalAlignment="Left" Margin="81,93,0,0" VerticalAlignment="Top" Height="49" Width="260"/>
+        <Label Content="Developed Felipe Parra, Bimestre 9 Semana2" HorizontalAlignment="Center" Margin="0,303,0,0" VerticalAlignment="Top" Height="49" Width="354" FontFamily="MV Boli" FontSize="16"/>
+        <Image HorizontalAlignment="Center" Height="100" Margin="0,203,0,0" VerticalAlignment="Top" Width="100" Source="/fotoperfil.png"/>
+
 
     </Grid>
 </Window>

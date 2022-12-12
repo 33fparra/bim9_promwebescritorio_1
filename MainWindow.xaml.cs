@@ -16,7 +16,7 @@ using System.Windows.Shapes;
 namespace FutbolClub
 {
     /// <summary>
-    /// Vistas que interactuan con la logica for MainWindow.xaml
+    /// Aqui va  la Interaction logica de MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window
     {

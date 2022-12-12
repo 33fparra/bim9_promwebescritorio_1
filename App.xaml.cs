@@ -9,7 +9,7 @@ using System.Windows;
 namespace FutbolClub
 {
     /// <summary>
-    /// Archivo principal que tiene la interaction logic for App.xaml
+    /// Aqui va Interaction logica de App.xaml
     /// </summary>
     public partial class App : Application
     {

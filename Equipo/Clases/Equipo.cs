@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FutbolClub.Administracion.Clases
 {
-    //Aqui ubico la class Equipo
+    //Aqui va internal class Equipo
     public class Equipo 
     {
         public string NombreEquipo { get; set; } = null!;

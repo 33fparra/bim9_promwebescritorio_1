@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FutbolClub.Administracion.Clases
 {
-    //Aqui ubico la class EquipoCollection
+    //Aqui va internal class EquipoCollection
     public static class EquipoCollection
     {
         public static List<Equipo> equipos = new();

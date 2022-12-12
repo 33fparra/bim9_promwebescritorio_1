@@ -9,11 +9,11 @@
     <Grid>
         <DockPanel LastChildFill="False">
             <Menu Width="797" DockPanel.Dock="Top" IsMainMenu="True" Height="20">
-                <MenuItem Header="Equipo" >
+                <MenuItem Header="Equipo" Click="MenuItem_Click" FontFamily="Segoe UI Black" FontWeight="Bold" Background="#FF6A7DF4" >
                     <MenuItem Header="Agregar" x:Name="btnAgrearEquipo" Click="btnAgrearEquipo_Click" />
                     <MenuItem Header="Listar Todos" x:Name="btnListarEquipo" Click="btnListarEquipo_Click" />
                 </MenuItem>
-                <MenuItem Header="Informacion" Click="MenuItem_Click">
+                <MenuItem Header="Informacion" FontFamily="Segoe UI Black" Background="#FF6A7DF4">
                     <MenuItem Header="Acerca de" x:Name="btnAcercade" Click="btnAcercade_Click"/>
                 </MenuItem>
             </Menu>

@@ -16,7 +16,7 @@ using System.Windows.Shapes;
 namespace FutbolClub.Administracion
 {
     /// <summary>
-    /// Aqui agrego la lógica de interacción para AgregarEquipo.xaml
+    /// Aqui va la interacción para AgregarEquipo.xaml
     /// </summary>
     public partial class AgregarEquipo : Window
     {

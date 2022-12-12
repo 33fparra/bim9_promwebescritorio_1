@@ -15,7 +15,7 @@ using System.Windows.Shapes;
 namespace FutbolClub.Acercade
 {
     /// <summary>
-    /// Aqui se unica la lógica de interacción para acercade.xaml  *revisar y repasar este punto
+    /// Aqui va la interacción para acercade.xaml
     /// </summary>
     public partial class acercade : Window
     {

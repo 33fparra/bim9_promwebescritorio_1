@@ -15,7 +15,7 @@ using System.Windows.Shapes;
 namespace FutbolClub.Administracion
 {
     /// <summary>
-    /// Aqui ubico la interacción para ListadoEquipos.xaml
+    /// Aqui va la interacción para ListadoEquipos.xaml
     /// </summary>
     public partial class ListadoEquipos : Window
     {
@@ -29,8 +29,11 @@ namespace FutbolClub.Administracion
         private void btnActualizar_Click(object sender, RoutedEventArgs e)
         {
             int index = dgListadoEquipos.SelectedIndex;
+            Administracion.ActualizarEquipo actualizar = new(index);
 
-            dgListadoEquipos.Items.Refresh();
+            actualizar.ShowDialog();
+
+
         }
 
         private void btnEliminar_Click(object sender, RoutedEventArgs e)

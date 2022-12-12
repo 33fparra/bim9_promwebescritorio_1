@@ -7,25 +7,27 @@
         mc:Ignorable="d"
         Title="AgregarEquipo" Height="450" Width="800">
     <Grid>
-        <Label Content="Nombre Equipo" HorizontalAlignment="Left" Margin="85,78,0,0" VerticalAlignment="Top" x:Name="lblNombreEquipo"/>
+        <Label Content="Nombre Equipo" HorizontalAlignment="Left" Margin="45,78,0,0" VerticalAlignment="Top" x:Name="lblNombreEquipo" Width="134" FontFamily="Segoe UI Black"/>
         <TextBox HorizontalAlignment="Left" Height="26" Margin="184,78,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="202" x:Name="txtNombreEquipo"/>
-        <Label Content="Cantidad de Jugadores" HorizontalAlignment="Left" Margin="45,109,0,0" VerticalAlignment="Top" Width="134" x:Name="lblCantidadJugadores" PreviewTextInput="CheckTextInput"/>
+        <Label Content="Cantidad de Jugadores" HorizontalAlignment="Left" Margin="45,109,0,0" VerticalAlignment="Top" Width="134" x:Name="lblCantidadJugadores" PreviewTextInput="CheckTextInput" FontFamily="Segoe UI Black"/>
         <TextBox HorizontalAlignment="Left" Margin="184,109,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="202" Height="26" x:Name="txtCantidadJugadores"/>
-        <Label Content="Nombre DT" HorizontalAlignment="Left" Margin="45,140,0,0" VerticalAlignment="Top" Width="134" x:Name="lblNombreDT"/>
+        <Label Content="Nombre DT" HorizontalAlignment="Left" Margin="45,140,0,0" VerticalAlignment="Top" Width="134" x:Name="lblNombreDT" FontFamily="Segoe UI Black"/>
         <TextBox HorizontalAlignment="Left" Margin="184,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="202" Height="26" x:Name="txtNombreDT"/>
-        <Label Content="Tipo de Equipo" HorizontalAlignment="Left" Margin="45,171,0,0" VerticalAlignment="Top" Width="134" x:Name="lblTipoEquipo"/>
+        <Label Content="Tipo de Equipo" HorizontalAlignment="Left" Margin="45,171,0,0" VerticalAlignment="Top" Width="134" x:Name="lblTipoEquipo" FontFamily="Segoe UI Black"/>
         <ComboBox HorizontalAlignment="Left" Height="26" Margin="184,171,0,0" VerticalAlignment="Top" Width="202" x:Name="cmbTipoEquipo" >
-            <ComboBoxItem IsSelected="True" >Seleccione </ComboBoxItem>
-            <ComboBoxItem>Infantil</ComboBoxItem>
+            <ComboBoxItem IsSelected="True" >Seleccione</ComboBoxItem>
+            <ComboBoxItem>Primera Division</ComboBoxItem>
+            <ComboBoxItem>Segunda Division</ComboBoxItem>
+            <ComboBoxItem>Tercera Division</ComboBoxItem>
+            <ComboBoxItem>Mixto</ComboBoxItem>
             <ComboBoxItem>Juvenil</ComboBoxItem>
-            <ComboBoxItem>Adulto</ComboBoxItem>
-        </ComboBox>    
-        <Label Content="Capitan Equipo" HorizontalAlignment="Left" Margin="45,199,0,0" VerticalAlignment="Top" Width="134" x:Name="lblCapitan"/>
+        </ComboBox>
+        <Label Content="Capitan Equipo" HorizontalAlignment="Left" Margin="45,199,0,0" VerticalAlignment="Top" Width="134" x:Name="lblCapitan" FontFamily="Segoe UI Black"/>
         <TextBox HorizontalAlignment="Left" Margin="184,0,0,0" TextWrapping="Wrap"  VerticalAlignment="Center" Width="202" Height="26" x:Name="txtCapitan"/>
-        <Label Content="Tiene Sub 21" HorizontalAlignment="Left" Margin="45,230,0,0" VerticalAlignment="Top" Width="134" x:Name="lblSub21"/>
-        <CheckBox Content="Seleccionar" HorizontalAlignment="Left" Height="21" Margin="184,235,0,0" VerticalAlignment="Top" Width="202" x:Name="chkSub21"/>
-        
-        <Button Content="Agregar Equipo" HorizontalAlignment="Left" Height="27" Margin="184,287,0,0" VerticalAlignment="Top" Width="202" Click="Button_Click" x:Name="btn_agregarEquipo"/>
+        <Label Content="Tiene Sub 21" HorizontalAlignment="Left" Margin="45,230,0,0" VerticalAlignment="Top" Width="134" x:Name="lblSub21" FontFamily="Segoe UI Black"/>
+        <CheckBox Content="Seleccionar" HorizontalAlignment="Left" Height="21" Margin="184,236,0,0" VerticalAlignment="Top" Width="202" x:Name="chkSub21"/>
+
+        <Button Content="Agregar Equipo" HorizontalAlignment="Left" Height="27" Margin="184,287,0,0" VerticalAlignment="Top" Width="202" Click="Button_Click" x:Name="btn_agregarEquipo" Background="#FF010654" Foreground="White" FontFamily="Segoe UI Black"/>
 
     </Grid>
 </Window>
