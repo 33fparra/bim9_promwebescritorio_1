@@ -1,0 +1,58 @@
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\bin\Debug\net6.0-windows\FutbolClub.exe
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\bin\Debug\net6.0-windows\FutbolClub.deps.json
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\bin\Debug\net6.0-windows\FutbolClub.runtimeconfig.json
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\bin\Debug\net6.0-windows\FutbolClub.dll
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\bin\Debug\net6.0-windows\FutbolClub.pdb
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\obj\Debug\net6.0-windows\FutbolClub.csproj.AssemblyReference.cache
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\obj\Debug\net6.0-windows\FutbolClub_MarkupCompile.cache
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\obj\Debug\net6.0-windows\FutbolClub_MarkupCompile.lref
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\obj\Debug\net6.0-windows\FutbolClub.g.resources
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\obj\Debug\net6.0-windows\FutbolClub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\obj\Debug\net6.0-windows\FutbolClub.AssemblyInfoInputs.cache
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\obj\Debug\net6.0-windows\FutbolClub.AssemblyInfo.cs
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\obj\Debug\net6.0-windows\FutbolClub.csproj.CoreCompileInputs.cache
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\obj\Debug\net6.0-windows\FutbolClub.dll
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\obj\Debug\net6.0-windows\refint\FutbolClub.dll
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\obj\Debug\net6.0-windows\FutbolClub.pdb
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\obj\Debug\net6.0-windows\FutbolClub.genruntimeconfig.cache
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\obj\Debug\net6.0-windows\ref\FutbolClub.dll
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\obj\Debug\net6.0-windows\Administracion\AgregarEquipo.g.cs
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\obj\Debug\net6.0-windows\Administracion\AgregarEquipo.baml
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\obj\Debug\net6.0-windows\Administracion\ListadoEquipos.g.cs
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\obj\Debug\net6.0-windows\Acercade\acercade.g.cs
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\obj\Debug\net6.0-windows\Administracion\ListadoEquipos.baml
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\obj\Debug\net6.0-windows\Acercade\acercade.baml
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\obj\Debug\net6.0-windows\Administracion\ActualizarEquipo.g.cs
+C:\Users\miguel.a.aguirre\source\repos\FutbolClub\obj\Debug\net6.0-windows\Administracion\ActualizarEquipo.baml
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\bin\Debug\net6.0-windows\FutbolClub.exe
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\bin\Debug\net6.0-windows\FutbolClub.deps.json
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\bin\Debug\net6.0-windows\FutbolClub.runtimeconfig.json
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\bin\Debug\net6.0-windows\FutbolClub.dll
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\bin\Debug\net6.0-windows\FutbolClub.pdb
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\obj\Debug\net6.0-windows\FutbolClub.csproj.AssemblyReference.cache
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\obj\Debug\net6.0-windows\Acercade\acercade.g.cs
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\obj\Debug\net6.0-windows\Equipo\ActualizarEquipo.g.cs
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\obj\Debug\net6.0-windows\Equipo\AgregarEquipo.g.cs
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\obj\Debug\net6.0-windows\Equipo\ListadoEquipos.g.cs
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\obj\Debug\net6.0-windows\App.g.cs
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\obj\Debug\net6.0-windows\FutbolClub_MarkupCompile.cache
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\obj\Debug\net6.0-windows\FutbolClub_MarkupCompile.lref
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\obj\Debug\net6.0-windows\Acercade\acercade.baml
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\obj\Debug\net6.0-windows\Equipo\ActualizarEquipo.baml
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\obj\Debug\net6.0-windows\Equipo\AgregarEquipo.baml
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\obj\Debug\net6.0-windows\Equipo\ListadoEquipos.baml
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\obj\Debug\net6.0-windows\FutbolClub.g.resources
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\obj\Debug\net6.0-windows\FutbolClub.GeneratedMSBuildEditorConfig.editorconfig
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\obj\Debug\net6.0-windows\FutbolClub.AssemblyInfoInputs.cache
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\obj\Debug\net6.0-windows\FutbolClub.AssemblyInfo.cs
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\obj\Debug\net6.0-windows\FutbolClub.csproj.CoreCompileInputs.cache
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\obj\Debug\net6.0-windows\FutbolClub.dll
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\obj\Debug\net6.0-windows\refint\FutbolClub.dll
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\obj\Debug\net6.0-windows\FutbolClub.pdb
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\obj\Debug\net6.0-windows\FutbolClub.genruntimeconfig.cache
+E:\Iplacex\9enoBimestre\PROGRAMACION DE COMPONENTES ECRITORIO 2\FutbolClub\obj\Debug\net6.0-windows\ref\FutbolClub.dll

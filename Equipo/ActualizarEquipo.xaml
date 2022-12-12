@@ -1,0 +1,30 @@
+﻿<Window x:Class="FutbolClub.Administracion.ActualizarEquipo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FutbolClub.Administracion"
+        mc:Ignorable="d"
+        Title="ActualizarEquipo" Height="450" Width="800">
+        <Grid>
+            <Label Content="Nombre Equipo" HorizontalAlignment="Left" Margin="85,78,0,0" VerticalAlignment="Top" x:Name="lblNombreEquipo_2"/>
+        <TextBox HorizontalAlignment="Left" Height="26" Margin="184,78,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="202" x:Name="txtNombreEquipo_2"/>
+        <Label Content="Cantidad de Jugadores" HorizontalAlignment="Left" Margin="45,109,0,0" VerticalAlignment="Top" Width="134" x:Name="lblCantidadJugadores_2" />
+        <TextBox HorizontalAlignment="Left" Margin="184,109,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="202" Height="26" x:Name="txtCantidadJugadores_2"/>
+        <Label Content="Nombre DT" HorizontalAlignment="Left" Margin="45,140,0,0" VerticalAlignment="Top" Width="134" x:Name="lblNombreDT_2"/>
+        <TextBox HorizontalAlignment="Left" Margin="184,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="202" Height="26" x:Name="txtNombreDT_2"/>
+        <Label Content="Tipo de Equipo" HorizontalAlignment="Left" Margin="45,171,0,0" VerticalAlignment="Top" Width="134" x:Name="lblTipoEquipo_2"/>
+        <ComboBox HorizontalAlignment="Left" Height="26" Margin="184,171,0,0" VerticalAlignment="Top" Width="202" x:Name="cmbTipoEquipo_2" >
+                <ComboBoxItem>Infantil</ComboBoxItem>
+                <ComboBoxItem>Juvenil</ComboBoxItem>
+                <ComboBoxItem>Adulto</ComboBoxItem>
+            </ComboBox>
+        <Label Content="Capitan Equipo" HorizontalAlignment="Left" Margin="45,199,0,0" VerticalAlignment="Top" Width="134" x:Name="lblCapitan_2"/>
+        <TextBox HorizontalAlignment="Left" Margin="184,0,0,0" TextWrapping="Wrap"  VerticalAlignment="Center" Width="202" Height="26" x:Name="txtCapitan_2"/>
+        <Label Content="Tiene Sub 21" HorizontalAlignment="Left" Margin="45,230,0,0" VerticalAlignment="Top" Width="134" x:Name="lblSub21_2"/>
+        <CheckBox Content="Seleccionar" HorizontalAlignment="Left" Height="21" Margin="184,235,0,0" VerticalAlignment="Top" Width="202" x:Name="chkSub21_2"/>
+
+            <Button Content="Actualizar Equipo" HorizontalAlignment="Left" Height="27" Margin="184,287,0,0" VerticalAlignment="Top" Width="202" x:Name="btn_actualizarEquipo" Click="btn_actualizarEquipo_Click"/>
+
+        </Grid>
+</Window>
